@@ -1,0 +1,68 @@
+*,
+*::before,
+*::after {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+li {
+	list-style: none;
+}
+a,
+a:visited {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: none;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-weight: inherit;
+	font-size: inherit;
+}
+img {
+	vertical-align: top;
+}
+h1{
+	color: crimson;
+}
+span{
+	color: yellowgreen;
+}
+#blue{
+	color: mediumblue;
+}
+#red{
+	color: red;
+}
+#green{
+	color: darkgreen;
+}
+#yellow{
+color: rgb(235, 235, 32);
+}
+#noblue{
+	color: rgb(235, 235, 32);
+}
+#nored{
+	color: mediumblue;
+}
+#nogreen{
+	color: red;
+}
+#noyellow{
+	color: darkgreen;
+}
+.text{
+	color: seagreen;
+}
+h2{
+	color: purple;
+}
+footer{
+	color: rgb(12, 151, 72);
+}
